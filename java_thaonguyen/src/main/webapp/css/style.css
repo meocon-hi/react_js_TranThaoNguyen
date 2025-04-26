@@ -1,0 +1,25 @@
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.modal-content {
+    border-radius: 10px;
+}
+
+.error {
+    color: red;
+    font-size: 0.9em;
+}
+
+.table th, .table td {
+    vertical-align: middle;
+}
+
+.btn-success, .btn-danger, .btn-primary, .btn-secondary {
+    margin-right: 5px;
+}
